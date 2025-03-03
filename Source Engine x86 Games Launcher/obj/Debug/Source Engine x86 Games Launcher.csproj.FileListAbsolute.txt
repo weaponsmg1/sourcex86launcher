@@ -1,0 +1,9 @@
+c:\users\weapon_smg1\documents\visual studio 2012\Projects\Source Engine x86 Games Launcher\Source Engine x86 Games Launcher\bin\Debug\Source Engine x86 Games Launcher.exe.config
+c:\users\weapon_smg1\documents\visual studio 2012\Projects\Source Engine x86 Games Launcher\Source Engine x86 Games Launcher\bin\Debug\Source Engine x86 Games Launcher.exe
+c:\users\weapon_smg1\documents\visual studio 2012\Projects\Source Engine x86 Games Launcher\Source Engine x86 Games Launcher\bin\Debug\Source Engine x86 Games Launcher.pdb
+c:\users\weapon_smg1\documents\visual studio 2012\Projects\Source Engine x86 Games Launcher\Source Engine x86 Games Launcher\obj\Debug\Source_Engine_x86_Games_Launcher.Form1.resources
+c:\users\weapon_smg1\documents\visual studio 2012\Projects\Source Engine x86 Games Launcher\Source Engine x86 Games Launcher\obj\Debug\Source_Engine_x86_Games_Launcher.Properties.Resources.resources
+c:\users\weapon_smg1\documents\visual studio 2012\Projects\Source Engine x86 Games Launcher\Source Engine x86 Games Launcher\obj\Debug\Source Engine x86 Games Launcher.csproj.GenerateResource.Cache
+c:\users\weapon_smg1\documents\visual studio 2012\Projects\Source Engine x86 Games Launcher\Source Engine x86 Games Launcher\obj\Debug\Source Engine x86 Games Launcher.exe
+c:\users\weapon_smg1\documents\visual studio 2012\Projects\Source Engine x86 Games Launcher\Source Engine x86 Games Launcher\obj\Debug\Source Engine x86 Games Launcher.pdb
+C:\Users\weapon_smg1\documents\visual studio 2012\Projects\Source Engine x86 Games Launcher\Source Engine x86 Games Launcher\obj\Debug\Source Engine x86 Games Launcher.csprojResolveAssemblyReference.cache
