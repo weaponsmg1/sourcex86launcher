@@ -21,10 +21,15 @@ If you want to specify new paths to the games:
 
 # Supported operating systems
 Windows 7
+
 Windows 8 
+
 Windows 8.1
+
 Windows 10
+
 Windows 11
+
 # Screenshots 
 
 ![scr1](https://github.com/user-attachments/assets/2b3b54ff-4f59-4ed5-b837-f2764701bf25)
