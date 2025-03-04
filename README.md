@@ -3,6 +3,7 @@
 ![sourcex86launcherlogo](https://github.com/user-attachments/assets/a2da6984-8955-43de-923b-07bd7c846efa)
 
 Simple launcher that can run games like HL2DM, CSS, TF2, and DODS in x86
+
 On the first launch, specify the paths to the games
 
 ![window](https://github.com/user-attachments/assets/092ae89d-3c06-40a7-955d-aa387219e6e9)
